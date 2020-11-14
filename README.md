@@ -4,7 +4,7 @@ Don't have much to say just a simple blog made with bottle, has a problem when i
 This project is licensed under the terms of the MIT license.
 
 *********
-This wasn't the original code, I planned to update. This is a different one, iv successfully uploaded it to Pythonanywhere and it's running awesomely.
+This wasn't the original code I planned to update. This is a different one that I've successfully uploaded to Pythonanywhere and it's running awesomely.
 I don't have the revised code, for Pythonanywhere anywhere on my local system.
 What I have is code that can be run locally on your ip address\localhost.
 
